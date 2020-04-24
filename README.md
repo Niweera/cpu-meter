@@ -58,3 +58,26 @@ pm2 start
 6. Upload your code to NodeMCU.
 
 7. Done.
+
+## Acknowledgement
+
+The following references were a tremendous help.
+
+1. https://www.instructables.com/id/Controlling-7-Segment-LED-Display-Using-ESP8266-We/
+
+2. https://www.circuitbasics.com/arduino-7-segment-display-tutorial/
+
+3. https://randomnerdtutorials.com/esp8266-web-server/
+
+4. https://mechatronicsblog.com/esp8266-nodemcu-pinout-for-arduino-ide/
+
+5. https://circuits4you.com/2019/01/11/nodemcu-esp8266-arduino-json-parsing-example/
+
+6. https://electrosome.com/calling-api-esp8266/
+
+7. https://www.instructables.com/id/ESP8266-Parsing-JSON/
+
+8. https://arduinojson.org/v6/doc/upgrade/
+
+9. https://arduinojson.org/v6/assistant/
+
