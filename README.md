@@ -59,6 +59,8 @@ pm2 start
 
 7. Done.
 
+![image](image.png)
+
 ## Acknowledgement
 
 The following references were a tremendous help.
